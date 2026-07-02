@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Frontend%20Developer%20in%20progress.&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=blur&color=6F7A74&height=300&section=header&text=Growing%20into%20a%20Frontend%20Developer.&fontSize=42&fontColor=000000)

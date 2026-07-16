@@ -16,7 +16,7 @@
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
           <br/></div>
     </div>
     </div>

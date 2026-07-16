@@ -1,6 +1,6 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=fff5b8&height=180&text=Jeong%20Chae%20Yeon&animation=&fontColor=363636&fontSize=60" />
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Jeong%20Chae%20Yeon&fontSize=55&fontColor=ffffff&desc=Frontend%20Developer&descSize=24&descAlignY=68&descAlign=50" />
+</div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
@@ -16,12 +16,8 @@
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=chaeyeon41&custom_title=chaeyeon41's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyeon41&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
     </div>
     
